@@ -85,7 +85,7 @@ Olá! Eu sou Emanuel Messias, tenho 20 anos e sou de São Paulo, Brasil. Atualme
 
 ---
 
-<h3 align="left">🤝 Conecte-se comigo</h3>
+<h3 align="left">🤝 Conecte-se comigo | Connect with me</h3>
 
 <div align="left">
   <a href="https://linkedin.com/in/messias-pro" target="_blank">
