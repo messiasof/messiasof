@@ -20,7 +20,7 @@ Olá! Me chamo Emanuel Messias, tenho 20 anos e sou de São Paulo, Brasil. Sou e
 
 ###
 
-<h3 align="left">>🛠️ Tecnológias e Ferramentas | Tech and Tools</h3>
+<h3 align="left">🛠️ Tecnológias e Ferramentas | Tech and Tools</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
