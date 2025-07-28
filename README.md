@@ -76,7 +76,7 @@ Olá! Eu sou Emanuel Messias, tenho 20 anos e sou de São Paulo, Brasil. Atualme
 
 ---
 
-<h3 align="left">📊 Estatísticas</h3>
+<h3 align="left">📊 Estatísticas | Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=messiasof&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
