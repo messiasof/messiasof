@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Desenvolvedor Full Stack | Estudante de Engenharia da Computação | Entusiasta tecnológico<br>🌍 Full Stack Developer | Computer Engineering Student | Technology Enthusiast</p>
+<p align="center">Desenvolvedor Full Stack | Estudante de Engenharia da Computação & IOT | Entusiasta tecnológico<br>🌍 Full Stack Developer | Computer Engineering & IOT Student | Technology Enthusiast</p>
 
 ###
 
@@ -12,9 +12,9 @@
 
 <h3 align="left">✍️ Sobre mim | About Me</h3>
 
-Olá! Me chamo Emanuel Messias, tenho 20 anos e sou de São Paulo, Brasil. Sou estudante de **Engenharia da Computação** e **Internet das Coisas** pela **UNIVESP** e atuo como desenvolvedor Full Stack com foco em tecnologias como: **Node.js, Python, Typescript e MongoDB**
+Olá! Eu sou Emanuel Messias, tenho 20 anos e sou de São Paulo, Brasil. Atualmente, estou cursando **Engenharia de Computação** e **Internet das Coisas** na **UNIVESP** — isso mesmo, dois bacharelados aos 20! Trabalho como Desenvolvedor Full Stack, especializado em tecnologias como **Node.js, Python, TypeScript** e **MongoDB**.
 
-🌍 Hello! My name is Emanuel Messias, I'm 20 years old and I'm from São Paulo, Brazil. I'm a student of **Computer Engineering** and **Internet of Things** at **UNIVESP**, and I work as a **Full Stack Developer** focused on technologies such as **Node.js, Python, TypeScript, and MongoDB**.
+🌍 Hello! I'm Emanuel Messias, a 20-year-old from São Paulo, Brazil. I'm currently pursuing **Computer Engineering** and **Internet of Things** at **UNIVESP** — yes, double majoring at 20! As a **Full Stack Developer**, I specialize in technologies like **Node.js, Python, TypeScript**, and **MongoDB**.
 
 ###
 
