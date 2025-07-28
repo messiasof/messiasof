@@ -1,8 +1,8 @@
-<h3 align="center">Emanuel Messias</h3>
+<h2 align="center">Emanuel Messias</h2>
 
 ###
 
-<p align="center">Desenvolvedor Full Stack | Estudante de Engenharia da Computação | Entusiasta tecnológico<br><br><br>Full Stack Developer | Computer Engineering Student | Technology Enthusiast</p>
+<p align="center">Desenvolvedor Full Stack | Estudante de Engenharia da Computação | Entusiasta tecnológico<br><br>Full Stack Developer | Computer Engineering Student | Technology Enthusiast</p>
 
 ###
 
@@ -91,14 +91,12 @@
 
 ###
 
+<h5 align="left">Conecte-se comigo</h5>
+
 <div align="center">
   <a href="https://linkedin.com/in/messias-pro" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<h5 align="left">Conecte-se comigo</h5>
 
 ###
