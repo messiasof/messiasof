@@ -10,13 +10,9 @@
 
 ###
 
-<h5 align="left">Sobre mim | About Me</h5>
+<h3 align="left">✍️ Sobre mim | About Me</h3>
 
-###
-
-<br clear="both">
-
-<p align="left">Olá! Me chamo Emanuel Messias, tenho 20 anos e sou de São Paulo, Brasil. Sou estudante de **Engenharia da Computação** e **Internet das Coisas** pela **UNIVESP** e atuo como desenvolvedor Full Stack com foco em tecnologias como: **Node.js, Python, Typescript e MongoDB**</p>
+Olá! Me chamo Emanuel Messias, tenho 20 anos e sou de São Paulo, Brasil. Sou estudante de **Engenharia da Computação** e **Internet das Coisas** pela **UNIVESP** e atuo como desenvolvedor Full Stack com foco em tecnologias como: **Node.js, Python, Typescript e MongoDB**</p>
 
 ###
 
@@ -24,9 +20,7 @@
 
 ###
 
-<p align="left">Tecnológias e Ferramentas | Tech and Tools</p>
-
-###
+<h3 align="left">>🛠️ Tecnológias e Ferramentas | Tech and Tools</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -78,22 +72,20 @@
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
 </div>
 
-###
-
 ---
 
-###
+<h3 align="left">📊 Estatísticas</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=messiasof&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=messiasof&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=messiasof&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
-<h5 align="left">Conecte-se comigo</h5>
+<h3 align="left">🤝 Conecte-se comigo</h3>
 
-<div align="center">
+<div align="left">
   <a href="https://linkedin.com/in/messias-pro" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
