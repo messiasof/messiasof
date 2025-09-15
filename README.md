@@ -72,6 +72,7 @@ Olá! Eu sou Emanuel Messias, tenho 20 anos e sou de São Paulo, Brasil. Atualme
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="cypress logo"  />
 </div>
 
